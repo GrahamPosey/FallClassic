@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>None</fullName>
+        <default>false</default>
+        <label>None</label>
+    </customValue>
+    <customValue>
+        <fullName>CRT</fullName>
+        <default>false</default>
+        <label>CRT</label>
+    </customValue>
+    <customValue>
+        <fullName>CodeScan</fullName>
+        <default>false</default>
+        <label>CodeScan</label>
+    </customValue>
+    <customValue>
+        <fullName>Copado Robotic Testing</fullName>
+        <default>false</default>
+        <label>Copado Robotic Testing</label>
+    </customValue>
+    <customValue>
+        <fullName>metadata-report-hs</fullName>
+        <default>false</default>
+        <label>metadata-report-hs</label>
+    </customValue>
+    <customValue>
+        <fullName>Salesforce_Jest_Test</fullName>
+        <default>false</default>
+        <label>Salesforce_Jest_Test</label>
+    </customValue>
+    <customValue>
+        <fullName>Apex Tests</fullName>
+        <default>false</default>
+        <label>Apex Tests</label>
+    </customValue>
+    <masterLabel>Copado Test Tool</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
